@@ -7,7 +7,7 @@ As simple as this application may be, the app demonstrates common React concepts
 
 ## Demo!
 Here is how the application looks like:
-
+![alt text](https://github.com/AminDhouib/counter-app/blob/main/demo/demo.png)
 
 # Getting Started with Create React App
 
