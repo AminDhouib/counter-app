@@ -1,3 +1,14 @@
+# React-based Counter Application
+## Summary
+An application that allow users to create many counters. The users can increment and decrease the value of the counters. They can also add up all the values of the counters.
+
+## Why did I make this?
+As simple as this application may be, the app demonstrates common React concepts being used on relatively complex applications such as class components, stateless functional components, states, props, raising and handling events, dynamically updated components, conditional rendering and a few others.
+
+## Demo!
+Here is how the application looks like:
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
